@@ -3,8 +3,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lisethgira&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lisethgira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lisethgira&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lisethgira&locale=en&layout=compact&card_width=320&langs_count=5&theme=tokyonight" height="150" alt="languages graph" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=lisethgira&theme=tokyonight&hide_border=true" height="150" alt="streak stats" />
 </div>
 
 ###
